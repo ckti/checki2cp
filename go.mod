@@ -1,4 +1,4 @@
-module github.com/eyedeekay/checki2cp
+module github.com/ckti/checki2cp
 
 go 1.13
 
